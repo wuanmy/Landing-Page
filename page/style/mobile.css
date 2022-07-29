@@ -1,0 +1,786 @@
+/*HEADER*/
+
+#header-mobile{
+    position: absolute;
+    width: 375px;
+    height: 65px;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFF;
+    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.16);
+}
+
+#header-mobile  .brand img{
+    position: absolute;
+    width: 217px;
+    height: 20px;
+    left: 20px;
+    top: 24px;
+}
+
+#header-mobile  .menu img{
+    position: absolute;
+    width: 24px;
+    height: 14px;
+    left: 331px;
+    top: 27px;
+}
+
+/*CONTENT*/
+
+#mobile-content .mobile-logo img{
+    position: absolute;
+    width: 375px;
+    height: 235px;
+    left: 0px;
+    top: 430px;
+}
+
+#mobile-content .first-heading{
+    position: absolute;
+    width: 335px;
+    height: 172px;
+    left: 20px;
+    top: 117px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    color: #000;
+}
+
+#mobile-content h2{
+    position: absolute;
+    width: 335px;
+    height: 81px;
+    left: 20px;
+    top: 313px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 170%;
+    text-align: center;
+    color: #000;
+}
+
+#mobile-content .mobile-line-1{
+    position: absolute;
+    width: 335px;
+    height: 0px;
+    left: 20px;
+    top: 689px;
+    border: 2px solid #000;
+    background-color: #000000;
+}
+
+.mobile-profile-1 .mobile-profile-image img{
+    position: absolute;
+    width: 57px;
+    height: 57px;
+    left: 19px;
+    right: 299px;
+    top: 713px;
+    bottom: 3505px;
+    border-radius: 50%;
+}
+
+.mobile-profile-1 .mobile-profile-content h3{
+    position: absolute;
+    width: 132px;
+    height: 16px;
+    left: 92px;
+    top: 719px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0.01em;
+    color: #000;
+    text-transform: uppercase;
+}
+
+.mobile-profile-1 .mobile-profile-content h4{
+    position: absolute;
+    width: 200px;
+    height: 16px;
+    left: 92px;
+    right: 128px;
+    top: 741px;
+    bottom: 3518px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    color: #000;
+}
+
+.border-box-1 .border-1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 335px;
+    height: 54px;
+    left: 20px;
+    top: 793px;
+    background: #FFFFFF;
+    border: 1px solid #eaeaea;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+}
+
+.border-box-1 .border-line-1{
+    position: absolute;
+    width: 0px;
+    height: 54px;
+    left: 132px;
+    top: 793px;
+    bottom: 3428px;
+    border: 1px solid #eaeaea;
+    background-color: #eaeaea;
+}
+
+.border-box-1 .border-line-2{
+    position: absolute;
+    width: 0px;
+    height: 54px;
+    left: 243px;
+    top: 793px;
+    bottom: 3428px;
+    border: 1px solid #eaeaea;
+    background-color: #eaeaea;
+}
+
+.border-box-1 .border-vector-1{
+    position: absolute;
+    width: 20px;
+    height: 19.92px;
+    left: 66px;
+    right: 289px;
+    top: 810.04px;
+    bottom: 3445.04px;
+}
+
+.border-box-1 .border-vector-2{
+    position: absolute;
+    width: 20px;
+    height: 16px;
+    left: 177px;
+    right: 178px;
+    top: 812px;
+    bottom: 3447px;
+}
+
+.border-box-1 .border-vector-3{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 289px;
+    right: 66px;
+    top: 810px;
+    bottom: 3445px;
+}
+
+#mobile-content .p1{
+    position: absolute;
+    width: 335px;
+    height: 135px;
+    left: 20px;
+    top: 879px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 170%;
+    color: #000;
+}
+
+#mobile-content .second-heading{
+    position: absolute;
+    width: 335px;
+    height: 31px;
+    left: 20px;
+    top: 1056px;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #000;
+}
+
+#mobile-content .p2{
+    position: absolute;
+    width: 335px;
+    height: 135px;
+    left: 20px;
+    top: 1106px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 170%;
+    color: #000;
+}
+
+#mobile-content .mobile-logo-read img{
+    position: absolute;
+    width: 375px;
+    height: 250px;
+    left: 0px;
+    top: 1283px;
+}
+
+#mobile-content .p3{
+    position: absolute;
+    width: 335px;
+    height: 36px;
+    left: 20px;
+    top: 1545px;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 140%;
+    text-align: center;
+    color: #000;
+}
+
+#mobile-content .p4{
+    position: absolute;
+    width: 335px;
+    height: 270px;
+    left: 22px;
+    top: 1623px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 170%;
+    color: #000;
+}
+
+#mobile-content .p5{
+    position: absolute;
+    width: 46px;
+    height: 17px;
+    left: 20px;
+    top: 1935px;
+    bottom: 2323px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+    color: #000;
+}
+
+.border-box-2 .border-1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 335px;
+    height: 54px;
+    left: 20px;
+    top: 1961px;
+    background: #FFFFFF;
+    border: 1px solid #eaeaea;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+}
+
+.border-box-2 .border-line-1{
+    position: absolute;
+    width: 0px;
+    height: 54px;
+    left: 132px;
+    top: 1961px;
+    bottom: 2260px;
+    border: 1px solid #eaeaea;
+    background-color: #eaeaea;
+}
+
+.border-box-2 .border-line-2{
+    position: absolute;
+    width: 0px;
+    height: 54px;
+    left: 243px;
+    top: 1961px;
+    bottom: 2260px;
+    border: 1px solid #eaeaea;
+    background-color: #eaeaea;
+}
+
+.border-box-2 .border-vector-1{
+    position: absolute;
+    width: 20px;
+    height: 19.92px;
+    left: 66px;
+    right: 289px;
+    top: 1978.04px;
+    bottom: 2277.04px;
+}
+
+.border-box-2 .border-vector-2{
+    position: absolute;
+    width: 20px;
+    height: 16px;
+    left: 177px;
+    right: 178px;
+    top: 1980px;
+    bottom: 2279px;
+}
+
+.border-box-2 .border-vector-3{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 289px;
+    right: 66px;
+    top: 1978px;
+    bottom: 2277px;
+}
+
+#mobile-content .p6{
+    position: absolute;
+    width: 210px;
+    height: 17px;
+    left: 20px;
+    top: 2039px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+    color: #0C0C0C;
+}
+
+#mobile-content .p6 b{
+    text-decoration-line: underline;
+    font-weight: 500;
+}
+
+#mobile-content .p6 c{
+    text-decoration-line: underline;
+}
+
+.line-2{
+    position: absolute;
+    width: 335px;
+    height: 0px;
+    left: 20px;
+    top: 2081px;
+    border: 0.05px dashed #000000;
+}
+
+.mobile-profile-2 .mobile-profile-image img{
+    position: absolute;
+    width: 71.25px;
+    height: 71.25px;
+    left: 18.75px;
+    right: 18.75px;
+    top: 2109px;
+    bottom: 2094.75px;
+    border-radius: 50%;
+}
+
+.mobile-profile-2 .mobile-profile-content .p7{
+    position: absolute;
+    width: 245px;
+    height: 88px;
+    left: 106px;
+    top: 2105px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 160%;
+    letter-spacing: 0.05em;
+    color: #0C0C0C;
+}
+
+.mobile-profile-2 .mobile-profile-content .p7 a{
+    text-transform: uppercase;
+}
+
+.mobile-profile-2 .mobile-profile-content .p7 b{
+    font-weight: 400;
+}
+
+.mobile-profile-2 .mobile-profile-content .p8{
+    position: absolute;
+    width: 335px;
+    height: 22px;
+    left: 20px;
+    top: 2194px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 160%;
+    color: #0C0C0C;
+}
+
+#mobile-content .mobile-line-2{
+    position: absolute;
+    width: 375px;
+    height: 0px;
+    left: 0px;
+    top: 2307px;
+    border: 2px solid #000000;
+    background-color: #000;
+}
+
+.logo-elip1{
+    position: absolute;
+    width: 35.43px;
+    height: 50.48px;
+    left: 155px;
+    top: 2276.16px;
+}
+
+.logo-elip2{
+    position: absolute;
+    width: 35.43px;
+    height: 50.48px;
+    left: 185.17px;
+    top: 2275px;
+}
+
+.logo-elip3{
+    position: absolute;
+    width: 13.71px;
+    height: 19.64px;
+    left: 168.6px;
+    top: 2301.69px;
+}
+
+.logo-elip4{
+    position: absolute;
+    width: 13.71px;
+    height: 19.64px;
+    left: 198.77px;
+    top: 2301.69px;
+}
+
+#mobile-content .third-heading{
+    position: absolute;
+    width: 274px;
+    height: 38px;
+    left: 51px;
+    top: 2369px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #000000;
+}
+
+#mobile-content .logo-2 img{
+    position: absolute;
+    width: 335px;
+    height: 194px;
+    left: 20px;
+    top: 2436px;
+}
+
+#mobile-content .logo-3 img{
+    position: absolute;
+    width: 335px;
+    height: 194px;
+    left: 20px;
+    top: 2770px;
+}
+
+#mobile-content .logo-1 img{
+    position: absolute;
+    width: 335px;
+    height: 194px;
+    left: 20px;
+    top: 3078px;
+}
+
+#mobile-content .p9 a{
+    position: absolute;
+    width: 262px;
+    height: 78px;
+    left: 57px;
+    right: 56px;
+    top: 2650px;
+    bottom: 1547px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+#mobile-content .p9 a:hover{
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+
+#mobile-content .p10 a{
+    position: absolute;
+    width: 262px;
+    height: 52px;
+    left: 57px;
+    top: 2984px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+#mobile-content .p10 a:hover{
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+
+#mobile-content .p11 a{
+    position: absolute;
+    width: 262px;
+    height: 78px;
+    left: 57px;
+    top: 3292px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+#mobile-content .p11 a:hover{
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+
+.line-3{
+    position: absolute;
+    width: 379px;
+    height: 10px;
+    left: -2px;
+    top: 3452px;
+    background: #000000;
+}
+
+.border-3{
+    box-sizing: border-box;
+    position: absolute;
+    width: 379px;
+    height: 305px;
+    left: -2px;
+    right: -2px;
+    top: 3462px;
+    bottom: 508px;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+}
+
+.heading-border{
+    position: absolute;
+    width: 249px;
+    height: 58px;
+    left: 63px;
+    top: 3504px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 100%;
+    text-align: center;
+    color: #090909;
+}
+
+#mobile-content .p12{
+    position: absolute;
+    width: 306px;
+    height: 66px;
+    left: 35px;
+    top: 3576px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    color: #090909;
+}
+
+form input {
+    position: absolute;
+    box-sizing: border-box;
+    width: 283px;
+    height: 54px;
+    left: 34px;
+    top: 3675px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+.border-4{
+    position: absolute;
+    width: 108px;
+    height: 54px;
+    left: 233px;
+    top: 3675px;
+    background: #000000;
+}
+
+#mobile-content .p13 a{
+    position: absolute;
+    width: 73px;
+    height: 19px;
+    left: 250px;
+    top: 3693px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+/*FOOTER*/
+
+#mobile-footer{
+    position: absolute;
+    width: 375px;
+    height: 456px;
+    left: 0px;
+    top: 3819px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #000000;
+}
+#mobile-footer .mobile-footer-list ul,li{
+    list-style-type: none;
+    display: flex;
+}
+
+#mobile-footer .mobile-footer-list a{
+    text-decoration: none;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+#mobile-footer .list1{
+    position: absolute;
+    width: 135px;
+    height: 28px;
+    right: 273px;
+    top: 22px;
+    bottom: 406px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.09em;
+}
+
+#mobile-footer .list2{
+    position: absolute;
+    width: 105px;
+    height: 28px;
+    right: 149px;
+    top: 22px;
+    bottom: 406px;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.1em;
+}
+
+#mobile-footer .list3{
+    position: absolute;
+    width: 190px;
+    height: 28px;
+    left: 244px;
+    top: 22px;
+    bottom: 406px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.09em;
+}
+
+#mobile-footer .mobile-footer-logo img{
+    position: absolute;
+    max-width: 236.37px;
+    height: 22.18px;
+    left: 69.32px;
+    right: 69.31px;
+    top: 153.41px;
+    bottom: 280.41px;
+    background: #000000;
+}
+
+.mobile-footer-first-heading{
+    position: absolute;
+    width: 287px;
+    height: 71px;
+    left: 44px;
+    right: 44px;
+    top: 201px;
+    bottom: 184px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#mobile-footer .mobile-links ul,
+li{
+    list-style-type: none;
+    display: flex;
+}
+
+#mobile-footer .mobile-links a{
+    text-decoration: none;
+    color: #FFFFFF;
+    text-decoration-line: underline;
+}
+
+.mobile-links .links1{
+    position: absolute;
+    width: 45px;
+    height: 22px;
+    left: 98px;
+    right: 232px;
+    top: 304px;
+    bottom: 130px;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 170%;
+}
+
+.mobile-links .links2{
+    position: absolute;
+    width: 53px;
+    height: 22px;
+    left: 170px;
+    right: 152px;
+    top: 304px;
+    bottom: 130px;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 170%;
+}
+
+.mobile-links .links3{
+    position: absolute;
+    width: 26px;
+    height: 22px;
+    left: 253px;
+    right: 96px;
+    top: 304px;
+    bottom: 130px;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 170%;
+}
+
+.mobile-footer-second-heading{
+    position: absolute;
+    width: 178px;
+    height: 34px;
+    left: 98px;
+    right: 99px;
+    top: 390px;
+    bottom: 32px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+}
