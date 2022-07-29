@@ -1,0 +1,380 @@
+#content .logo img{
+    position: absolute;
+    width: 854px;
+    height: 533px;
+    left: 293px;
+    top: 210px;
+}
+ 
+.first-heading{
+    position: absolute;
+    width: 858px;
+    height: 162px;
+    left: 293px;
+    top: 787px;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 100%;
+    text-align: center;
+    color: #000;
+}
+ 
+h2{
+    position: absolute;
+    width: 592px;
+    height: 68px;
+    left: 424px;
+    top: 981px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 170%;
+    text-align: center;
+    color: #000;
+}
+ 
+.line{
+    position: absolute;
+    width: 640px;
+    height: 0px;
+    left: 400px;
+    top: 1083px;
+    border-bottom: 2px solid #000;
+}
+ 
+.second-heading{
+    position: absolute;
+    width: 225px;
+    height: 53px;
+    left: 608px;
+    top: 1147px;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 53px;
+    text-align: center;
+    color: #000;
+}
+ 
+#content .logo-1 img{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 402px;
+    top: 1239px;
+}
+ 
+#content .logo-2 img{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 734px;
+    top: 1239px;
+}
+ 
+#content .logo-3 img{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 402px;
+    top: 1577px;
+}
+ 
+#content .logo-4 img{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 734px;
+    top: 1577px;
+}
+ 
+#content .logo-5 img{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 402px;
+    top: 1915px;
+}
+ 
+#content .logo-6 img{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 734px;
+    top: 1915px;
+}
+ 
+#content .logo-7 img{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 402px;
+    top: 2253px;
+}
+ 
+#content .logo-8 img{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 734px;
+    top: 2253px;
+}
+ 
+#content .logo-9 img{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 402px;
+    top: 2565px;
+}
+ 
+#content .logo-10 img{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 734px;
+    top: 2565px;
+}
+ 
+#content .logo-11 img{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 402px;
+    top: 2903px;
+}
+ 
+#content .logo-12 img{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 734px;
+    top: 2903px;
+}
+ 
+h3 a{
+    position: absolute;
+    width: 262px;
+    height: 78px;
+    left: 423px;
+    top: 1435px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+ 
+h3 a:hover{
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+ 
+h4 a{
+    position: absolute;
+    width: 262px;
+    height: 78px;
+    left: 755px;
+    top: 1435px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+ 
+h4 a:hover{
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+ 
+h5 a{
+    position: absolute;
+    width: 262px;
+    height: 52px;
+    left: 423px;
+    top: 1773px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+ 
+h5 a:hover{
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+ 
+h6 a{
+    position: absolute;
+    width: 262px;
+    height: 78px;
+    left: 755px;
+    top: 1773px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+ 
+h6 a:hover{
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+ 
+h7 a{
+    position: absolute;
+    width: 262px;
+    height: 78px;
+    left: 423px;
+    top: 2111px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+ 
+h7 a:hover{
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+ 
+h8 a{
+    position: absolute;
+    width: 262px;
+    height: 52px;
+    left: 755px;
+    top: 2111px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+ 
+h8 a:hover{
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+ 
+h9 a{
+    position: absolute;
+    width: 262px;
+    height: 52px;
+    left: 423px;
+    top: 2449px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+ 
+h9 a:hover{
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+ 
+h10 a{
+    position: absolute;
+    width: 262px;
+    height: 26px;
+    left: 755px;
+    top: 2449px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+ 
+h10 a:hover{
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+ 
+h11 a{
+    position: absolute;
+    width: 262px;
+    height: 26px;
+    left: 423px;
+    top: 2761px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+ 
+h11 a:hover{
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+ 
+h12 a{
+    position: absolute;
+    width: 262px;
+    height: 78px;
+    left: 755px;
+    top: 2761px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+ 
+h12 a:hover{
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+ 
+h13 a{
+    position: absolute;
+    width: 262px;
+    height: 78px;
+    left: 423px;
+    top: 3099px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+ 
+h13 a:hover{
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+ 
+h14 a{
+    position: absolute;
+    width: 262px;
+    height: 104px;
+    left: 755px;
+    top: 3099px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+ 
+h14 a:hover{
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+
