@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#main{
+    width: 1440px;
+    height: 5909px;
+}
+
+#header{
+    position: absolute;
+    width: 1440px;
+    height: 133px;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFF;
+    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.16);
+}
+
+#header .logo img{
+    position: absolute;
+    width: 395.83px;
+    height: 37.53px;
+    left: 63.99px;
+    top: 52.54px;
+}
+
+.nav{
+    list-style: none;
+    display: flex;
+}
+
+.nav .item-1{
+    position: absolute;
+    width: 66px;
+    height: 34px;
+    left: 936px;
+    top: 59px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 170%;
+    text-align: center;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.nav .item-2{
+    position: absolute;
+    width: 84px;
+    height: 34px;
+    left: 1033px;
+    top: 59px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 170%;
+    text-align: center;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.nav .item-3{
+    position: absolute;
+    width: 71px;
+    height: 34px;
+    left: 1151px;
+    top: 59px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 170%;
+    text-align: center;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.nav .item-4{
+    position: absolute;
+    width: 121x;
+    height: 34px;
+    left: 1258px;
+    top: 59px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 170%;
+    text-align: center;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.nav a{
+    text-decoration: none;
+    color: #000;
+}
+
+.line1 {
+    position: absolute;
+    width: 66px;
+    height: 0px;
+    left: 936px;
+    top: 131.5px;
+    border-bottom: 2px solid #000;
+}
